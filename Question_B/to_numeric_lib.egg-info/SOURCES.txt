@@ -1,0 +1,11 @@
+README.md
+setup.py
+test/test.py
+to_numeric_lib/Number.py
+to_numeric_lib/__init__.py
+to_numeric_lib/deci.py
+to_numeric_lib/inte.py
+to_numeric_lib.egg-info/PKG-INFO
+to_numeric_lib.egg-info/SOURCES.txt
+to_numeric_lib.egg-info/dependency_links.txt
+to_numeric_lib.egg-info/top_level.txt
