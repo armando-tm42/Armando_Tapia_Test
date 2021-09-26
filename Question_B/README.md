@@ -64,7 +64,11 @@ Integer_1.comps('4635345asdsad')
 
 
 >>>"4534123  is less than  4635345"
+
+#output
 ```
+![alt text](https://github.com/armando-tm42/Armando_Tapia_Test/blob/master/Images/example.png?raw=true)
+
 ## missing functionalities
 Like the dot, comma is accepted as decimal point so in new releases this function will be added.
 
