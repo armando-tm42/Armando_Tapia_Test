@@ -40,5 +40,7 @@ else:
 ```
 Output
 
+![alt text](https://github.com/armando-tm42/Armando_Tapia_Test/blob/master/Images/example.png?raw=true)
+
 ## License
 to define
